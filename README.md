@@ -1,6 +1,6 @@
 # README for `branch_renaming_change_process`
 
-This repository contains a script for adding issues to GitHub repositories as part of the [Samvera Branch Renaming Group's](https://samvera.atlassian.net/wiki/spaces/samvera/pages/504926829/Samvera%2BBranch%2BRenaming%2BWorking%2BGroup) change process. Visit the wiki to learn more about the group and our process. 
+This repository contains a script for adding issues to GitHub repositories as part of the [Samvera Branch Renaming Group's](https://samvera.atlassian.net/wiki/spaces/samvera/pages/504926829/Samvera%2BBranch%2BRenaming%2BWorking%2BGroup) change process. Visit the Samvera wiki to learn more about the group and our process. 
 
 ## Requirements
 * [Git](http://git-scm.com/)
