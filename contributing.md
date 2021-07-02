@@ -1,0 +1,1 @@
+The [maintenance template for CONTRIBUTING.md](https://raw.githubusercontent.com/samvera/maintenance/main/templates/CONTRIBUTING.md) is used by all Samvera repos.  Replace the current version with the updated maintenance template version.
